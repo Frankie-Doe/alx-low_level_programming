@@ -3,7 +3,8 @@
 #include <time.h>
 /**
  * main - A prorgam that prints the size of various computer types
- * Return: Always 0 (Umefanikiwa)
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {

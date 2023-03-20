@@ -2,6 +2,7 @@
 /**
  * main - Program that prints all the numbers of base sixteen
  *
+ * Return: Always 0 (success)
  */
 
 int main(void)
